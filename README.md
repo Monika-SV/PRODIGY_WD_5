@@ -1,1 +1,1 @@
-# PRODIGY_WD_5
+This project is a weather application that allows users to check current weather conditions, temperature, and other relevant information for any city. Utilizing HTML, CSS, and JavaScript, it creates a responsive and user-friendly interface while fetching data from a public API for clear and accessible display.
